@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_increment.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_increment.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_shutter_pressed.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_shutter_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_right_out.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_camera.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\libuvccamera-release.aar\\e632e721788cc52e3c5276555458a3c0\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_right_in.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\libuvccamera-release.aar\\e632e721788cc52e3c5276555458a3c0\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_left_out.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_gray.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\border_gray.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\toggle.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_repeat_shutter_recording.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\btn_repeat_shutter_recording.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_picker.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_rect.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\transparent_rect.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_recording_holo.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_recording_pressed_holo.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_star.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable-v21\\star.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_seekbar_preference.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\seekbar_preference.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\raw_camera_click.ogg.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\usbCameraCommon-release.aar\\1a5dd81f0c30b2de4ce4acd76882f8c8\\res\\raw\\camera_click.ogg"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_frame_selector.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\view_frame_selector.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_slide.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\toggle_slide.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_cross.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\frame_cross.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quater_clear_rect.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\quater_clear_rect.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_shutter_video_pressed.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_picker.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_decrement.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_decrement.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_video_shutter_recording_holo.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_video_shutter_recording_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\libuvccamera-release.aar\\e632e721788cc52e3c5276555458a3c0\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\animator_card_flip_left_in.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_button_base.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\toggle_button_base.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_new_shutter_video.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_black.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\border_black.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_new_shutter.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\btn_new_shutter.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_dialog.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_pressed.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shutter_video_recording.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\btn_shutter_video_recording.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\frame.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mask_circle.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\mask_circle.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_repeat_shutter_default.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_default.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-ldpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_bluetooth_device_info.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\layout\\list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recordingtime.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\drawable\\recordingtime.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_video_shutter_recording_pressed_holo.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_video_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-mdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AndroidApps\\OpenCVwithUVC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_shutter_default.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_shutter_default.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eec124c43686efe1a03c37e11e4f6911\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\AndroidApps\\OpenCVwithUVC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_btn_shutter_video_default.png.flat",
+        "source": "C:\\Users\\Sean McGuinness\\.gradle\\caches\\transforms-1\\files-1.1\\common-2.5.1.aar\\a6f6b3b881397ba35bdee328019ce7ed\\res\\mipmap-hdpi-v4\\btn_shutter_video_default.png"
+    }
+]

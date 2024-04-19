@@ -453,10 +453,10 @@ public class ImageProcessor {
 	private static native void nativeClassInit();
 	static {
 		if (!isInit) {
-			System.loadLibrary("gnustl_shared");
 			System.loadLibrary("common");
 			System.loadLibrary("opencv_java3");
 			System.loadLibrary("imageproc");
+			System.loadLibrary("c++_shared");
 			nativeClassInit();
 			isInit = true;
 		}

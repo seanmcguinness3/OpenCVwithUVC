@@ -203,6 +203,7 @@ void ImageProcessor::do_process(JNIEnv *env) {
 					cv::cvtColor(frame, src, cv::COLOR_RGBA2GRAY, 1);
 					// convert gray scale to rgba(for callback)
 					cv::cvtColor(src, result, cv::COLOR_GRAY2RGBA);
+					//SEAN it looks like you can do some image processing here!
 					break;
 				}
 				if (UNLIKELY(!mIsRunning)) break;
