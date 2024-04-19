@@ -21,7 +21,7 @@
  * folder may have a different license, see the respective files.
 */
 
-#if 1	// set 0 to enable debug output, otherwise set 1
+#if 0	// set 0 to enable debug output, otherwise set 1
 	#ifndef LOG_NDEBUG
 		#define	LOG_NDEBUG		// disable LOGV/LOGD/MARK
 	#endif
@@ -204,6 +204,9 @@ void ImageProcessor::do_process(JNIEnv *env) {
 					// convert gray scale to rgba(for callback)
 					cv::cvtColor(src, result, cv::COLOR_GRAY2RGBA);
 					//SEAN it looks like you can do some image processing here!
+					cv::Scalar testAvg = mean(src);
+                    float testPrint = testAvg[0];
+					LOGD("openCV test amplitude: %f", testPrint);
 					break;
 				}
 				if (UNLIKELY(!mIsRunning)) break;
